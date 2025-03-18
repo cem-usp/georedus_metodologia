@@ -1,14 +1,4 @@
----
-title: "Serviço de alimentação na escola"
-output:
-  html_document:
-    theme: flatly
-  pdf_document: {}
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Serviço de alimentação
 
 Alimentação escolar para os alunos - Programa Nacional de Alimentação Escolar/Fundo Nacional de Desenvolvimento da Educação
 
