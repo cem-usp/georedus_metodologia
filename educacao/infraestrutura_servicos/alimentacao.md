@@ -1,8 +1,8 @@
 # Indicador: Serviço de alimentação na escola
 
-Alimentação escolar para os alunos - Programa Nacional de Alimentação Escolar/Fundo Nacional de Desenvolvimento da Educação
-
 ## Descrição
+
+Alimentação escolar para os alunos - Programa Nacional de Alimentação Escolar/Fundo Nacional de Desenvolvimento da Educação
 
 - **Recorte:** unidades escolares públicas das maiores regiões metropolitanas ou capitais
 - **Valor(es):** absoluto
