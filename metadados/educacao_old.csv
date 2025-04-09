@@ -1,0 +1,96 @@
+m_description,indicator_id,indicator_label
+Situação de funcionamento,tp_situacao_funcionamento,Situação de funcionamento
+Dependência Administrativa,tp_dependencia,Dependência administrativa
+Número de Matrículas na Educação Infantil - Creche,qt_mat_inf_cre,Quantidade de matrículas
+Número de Turmas de Educação Infantil - Creche,qt_tur_inf_cre,Quantidade de turmas
+Número de Docentes da Educação Infantil - Creche,qt_doc_inf_cre,Quantidade de docentes
+Abastecimento de água - Rede pública,in_agua_rede_publica,Água de rede pública
+Esgoto sanitário - Rede pública,in_esgoto_rede_publica,Esgoto sanitário em rede pública
+Acesso à Internet,in_internet,Internet
+Dependências físicas existentes e utilizadas na escola - Banheiro adequado à educação infantil,in_banheiro_ei,Banheiro de educação infantil
+Dependências físicas existentes e utilizadas na escola - Biblioteca,in_biblioteca,Biblioteca
+Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,in_biblioteca_sala_leitura,Biblioteca ou sala de leitura
+Dependências físicas existentes e utilizadas na escola - Parque infantil,in_parque_infantil,Parque infantil
+Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,in_quadra_esportes,Quadra de esportes
+Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,in_laboratorio_ciencias,Laboratório de ciências
+Dependências físicas existentes e utilizadas na escola - Laboratório de informática,in_laboratorio_informatica,Laboratório de informática
+#N/A,in_patio,Pátio
+Dependências físicas existentes e utilizadas na escola - Refeitório,in_refeitorio,Refeitório
+#N/A,in_psicologo_assist_social,Psicólogo ou assistente social
+Alimentação escolar para os alunos - PNAE/FNDE,in_alimentacao,Alimentação
+#N/A,inse,Inse
+Número de Matrículas na Educação Infantil - Pré-Escola,qt_mat_inf_pre,Quantidade de Matrículas
+Número de Turmas de Educação Infantil - Pré-Escola,qt_tur_inf_pre,Quantidade de Turmas
+Número de Docentes da Educação Infantil - Pré-Escola,qt_doc_inf_pre,Quantidade de Docentes 
+Abastecimento de água - Rede pública,in_agua_rede_publica,Água de rede pública
+Esgoto sanitário - Rede pública,in_esgoto_rede_publica,Esgoto sanitário em rede pública
+Acesso à Internet,in_internet,Internet
+Dependências físicas existentes e utilizadas na escola - Banheiro adequado à educação infantil,in_banheiro_ei,Banheiro de educação infantil
+Dependências físicas existentes e utilizadas na escola - Biblioteca,in_biblioteca,Biblioteca
+Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,in_biblioteca_sala_leitura,Biblioteca ou sala de leitura
+Dependências físicas existentes e utilizadas na escola - Parque infantil,in_parque_infantil,Parque infantil
+Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,in_quadra_esportes,Quadra de esportes
+Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,in_laboratorio_ciencias,Laboratório de ciências
+Dependências físicas existentes e utilizadas na escola - Laboratório de informática,in_laboratorio_informatica,Laboratório de informática
+#N/A,in_patio,Pátio
+Dependências físicas existentes e utilizadas na escola - Refeitório,in_refeitorio,Refeitório
+#N/A,in_psicologo_assist_social,Psicólogo ou assistente social
+Alimentação escolar para os alunos - PNAE/FNDE,in_alimentacao,Alimentação
+#N/A,inse,Inse
+Número de Matrículas no Ensino Fundamental - Anos Iniciais,qt_mat_fund_ai,Quantidade de Matrículas
+Número de Turmas de Ensino Fundamental - Anos Iniciais,qt_tur_fund_ai,Quantidade de Turmas 
+Número de Docentes do Ensino Fundamental - Anos Iniciais,qt_doc_fund_ai,Quantidade de Docentes 
+Abastecimento de água - Rede pública,in_agua_rede_publica,Água de rede pública
+Esgoto sanitário - Rede pública,in_esgoto_rede_publica,Esgoto sanitário em rede pública
+Acesso à Internet,in_internet,Internet
+Dependências físicas existentes e utilizadas na escola - Banheiro adequado à educação infantil,in_banheiro_ei,Banheiro de educação infantil
+Dependências físicas existentes e utilizadas na escola - Biblioteca,in_biblioteca,Biblioteca
+Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,in_biblioteca_sala_leitura,Biblioteca ou sala de leitura
+Dependências físicas existentes e utilizadas na escola - Parque infantil,in_parque_infantil,Parque infantil
+Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,in_quadra_esportes,Quadra de esportes
+Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,in_laboratorio_ciencias,Laboratório de ciências
+Dependências físicas existentes e utilizadas na escola - Laboratório de informática,in_laboratorio_informatica,Laboratório de informática
+#N/A,in_patio,Pátio
+Dependências físicas existentes e utilizadas na escola - Refeitório,in_refeitorio,Refeitório
+#N/A,in_psicologo_assist_social,Psicólogo ou assistente social
+Alimentação escolar para os alunos - PNAE/FNDE,in_alimentacao,Alimentação
+#N/A,inse,Inse
+Número de Matrículas no Ensino Fundamental - Anos Finais,qt_mat_fund_af,Quantidade de Matrículas - Ensino Fundamental II
+Número de Turmas de Ensino Fundamental - Anos Finais,qt_tur_fund_af,Quantidade de Turmas - Ensino Fundamental II
+Número de Docentes do Ensino Fundamental - Anos Finais,qt_doc_fund_af,Quantidade de Docentes - Ensino Fundamental II
+Número de Matrículas no Ensino Médio,qt_mat_med,Quantidade de Matrículas - Ensino Médio
+Número de Turmas de Ensino Médio,qt_tur_med,Quantidade de Turmas - Ensino Médio
+Número de Docentes do Ensino Médio,qt_doc_med,Quantidade de Docentes - Ensino Médio
+Número de Matrículas na Educação Básica,qt_mat_bas,Quantidade de matrículas
+Número de Turmas de Educação Básica,qt_tur_bas,Quantidade de turmas
+Número de Docentes da Educação Básica,qt_doc_bas,Quantidade de docentes
+Abastecimento de água - Rede pública,in_agua_rede_publica,Água de rede pública
+Esgoto sanitário - Rede pública,in_esgoto_rede_publica,Esgoto sanitário em rede pública
+Acesso à Internet,in_internet,Internet
+Dependências físicas existentes e utilizadas na escola - Banheiro adequado à educação infantil,in_banheiro_ei,Banheiro de educação infantil
+Dependências físicas existentes e utilizadas na escola - Biblioteca,in_biblioteca,Biblioteca
+Dependências físicas existentes e utilizadas na escola - Biblioteca e/ou Sala de leitura,in_biblioteca_sala_leitura,Biblioteca ou sala de leitura
+Dependências físicas existentes e utilizadas na escola - Parque infantil,in_parque_infantil,Parque infantil
+Dependências físicas existentes e utilizadas na escola - Quadra de esportes coberta ou descoberta,in_quadra_esportes,Quadra de esportes
+Dependências físicas existentes e utilizadas na escola - Laboratório de ciências,in_laboratorio_ciencias,Laboratório de ciências
+Dependências físicas existentes e utilizadas na escola - Laboratório de informática,in_laboratorio_informatica,Laboratório de informática
+#N/A,in_patio,Pátio
+Dependências físicas existentes e utilizadas na escola - Refeitório,in_refeitorio,Refeitório
+#N/A,in_psicologo_assist_social,Psicólogo ou assistente social
+Alimentação escolar para os alunos - PNAE/FNDE,in_alimentacao,Alimentação
+#N/A,inse,Inse
+#N/A,ideb_fund_ai,Ideb - Fundamental I
+#N/A,ideb_fund_af,Ideb - Fundamental II
+#N/A,ideb_med,Ideb - Ensino Médio
+#N/A,saeb_fund_ai,Saeb - Fundamental I
+#N/A,saeb_fund_af,Saeb - Fundamental II
+#N/A,saeb_med,Saeb - Ensino Médio
+#N/A,ta_fun_ai,Taxa de Abandono - Fundamental I
+#N/A,ta_fun_af,Taxa de Abandono - Fundamental II
+#N/A,ta_med,Taxa de Abandono - Ensino Médio
+#N/A,tr_fun_ai,Taxa de Reprovação - Fundamental I
+#N/A,tr_fun_af,Taxa de Reprovação - Fundamental II
+#N/A,tr_med,Taxa de Reprovação - Ensino Médio
+#N/A,tdi_fun_ai,Taxa de Distorção Idade-Série - Fundamental I
+#N/A,tdi_fun_af,Taxa de Distorção Idade-Série - Fundamental II
+#N/A,tdi_med,Taxa de Distorção Idade-Série - Ensino Médio
