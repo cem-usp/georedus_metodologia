@@ -1,123 +1,483 @@
-indicator_id,m_description,indicator_label
-todas_tp_situacao_funcionamento_todas,"Situação de funcionamento da escola, em que foram selecionadas somente escolas ativas.",Situação de funcionamento
-todas_tp_dependencia_todas,"Dependência administrativa, ou rede de ensino federal, estadual ou municipal.",Dependência administrativa
-inf_cre_qt_mat_inf_cre_todas,"Quantidade de estudantes matriculados na etapa ""creche"" da educação infantil.",Quantidade de matrículas
-inf_cre_qt_tur_inf_cre_todas,"Quantidade de turmas na etapa ""creche"" da educação infantil.",Quantidade de turmas
-inf_cre_qt_doc_inf_cre_todas,"Quantidade de docentes na etapa ""creche"" da educação infantil.",Quantidade de docentes
-inf_cre_in_agua_rede_publica_todas,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Água de rede pública
-inf_cre_in_esgoto_rede_publica_todas,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Esgoto sanitário em rede pública
-inf_cre_in_internet_todas,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Internet
-inf_cre_in_banheiro_ei_todas,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Banheiro de educação infantil
-inf_cre_in_biblioteca_todas,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Biblioteca
-inf_cre_in_biblioteca_sala_leitura_todas,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Biblioteca ou sala de leitura
-inf_cre_in_parque_infantil_todas,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Parque infantil
-inf_cre_in_quadra_esportes_todas,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Quadra de esportes
-inf_cre_in_laboratorio_ciencias_todas,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Laboratório de ciências
-inf_cre_in_laboratorio_informatica_todas,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Laboratório de informática
-inf_cre_in_patio_todas,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Pátio
-inf_cre_in_refeitorio_todas,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Refeitório
-inf_cre_in_psicologo_assist_social_todas,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Psicólogo ou assistente social
-inf_cre_in_alimentacao_todas,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Alimentação
-inf_cre_inse_todas,,Inse
-inf_pre_qt_mat_inf_pre_todas,"Quantidade de estudantes matriculados na etapa ""pré-escola"" da educação infantil.",Quantidade de Matrículas
-inf_pre_qt_tur_inf_pre_todas,"Quantidade de turmas na etapa ""pré-escola"" da educação infantil.",Quantidade de Turmas
-inf_pre_qt_doc_inf_pre_todas,"Quantidade de docentes na etapa ""pré-escola"" da educação infantil.",Quantidade de Docentes 
-inf_pre_in_agua_rede_publica_todas,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Água de rede pública
-inf_pre_in_esgoto_rede_publica_todas,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Esgoto sanitário em rede pública
-inf_pre_in_internet_todas,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Internet
-inf_pre_in_banheiro_ei_todas,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Banheiro de educação infantil
-inf_pre_in_biblioteca_todas,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Biblioteca
-inf_pre_in_biblioteca_sala_leitura_todas,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Biblioteca ou sala de leitura
-inf_pre_in_parque_infantil_todas,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Parque infantil
-inf_pre_in_quadra_esportes_todas,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Quadra de esportes
-inf_pre_in_laboratorio_ciencias_todas,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Laboratório de ciências
-inf_pre_in_laboratorio_informatica_todas,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Laboratório de informática
-inf_pre_in_patio_todas,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Pátio
-inf_pre_in_refeitorio_todas,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Refeitório
-inf_pre_in_psicologo_assist_social_todas,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Psicólogo ou assistente social
-inf_pre_in_alimentacao_todas,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Alimentação
-inf_pre_inse_todas,,Inse
-fund_ai_qt_mat_fund_ai_todas,Quantidade de estudantes matriculados na etapa de Ensino Fundamental I (anos iniciais).,Quantidade de Matrículas
-fund_ai_qt_tur_fund_ai_todas,Quantidade de turmas na etapa de Ensino Fundamental I (anos iniciais).,Quantidade de Turmas 
-fund_ai_qt_doc_fund_ai_todas,Quantidade de docentes na etapa de Ensino Fundamental I (anos iniciais).,Quantidade de Docentes 
-fund_ai_in_agua_rede_publica_todas,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Água de rede pública
-fund_ai_in_esgoto_rede_publica_todas,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Esgoto sanitário em rede pública
-fund_ai_in_internet_todas,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Internet
-fund_ai_in_banheiro_ei_todas,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Banheiro de educação infantil
-fund_ai_in_biblioteca_todas,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Biblioteca
-fund_ai_in_biblioteca_sala_leitura_todas,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Biblioteca ou sala de leitura
-fund_ai_in_parque_infantil_todas,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Parque infantil
-fund_ai_in_quadra_esportes_todas,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Quadra de esportes
-fund_ai_in_laboratorio_ciencias_todas,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Laboratório de ciências
-fund_ai_in_laboratorio_informatica_todas,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Laboratório de informática
-fund_ai_in_patio_todas,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Pátio
-fund_ai_in_refeitorio_todas,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Refeitório
-fund_ai_in_psicologo_assist_social_todas,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Psicólogo ou assistente social
-fund_ai_in_alimentacao_todas,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Alimentação
-fund_ai_ideb_fund_ai_todas,"O Índice de Desenvolvimento da Educação Básica (Ideb) é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb). A disponibilidade do índice é a partir da etapa de Ensino Fundamental I (anos inciais).",Ideb - Fundamental I
-fund_ai_inse_todas,"O Indicador de Nível Socioeconômico é construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do(a) aluno(a) do Saeb (Inse do Saeb). É composto por perguntas relacionadas à moradia e à situação familiar do(a) estudante.",Inse
-fund_ai_tr_fund_ai_todas,"a Taxa de Reprovação indica a porcentagem de alunos que, ao final do ano letivo, não alcançou os critérios mínimos para a conclusão da etapa de ensino. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Taxa de Reprovação - Fundamental I
-fund_ai_ta_fund_ai_todas,A Taxa de Abandono indica a porcentagem de alunos que deixou de frequentar a escola após a data de referência do Censo Escolar. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).,Taxa de Abandono - Fundamental I
-fund_ai_tdi_fund_ai_todas,"A Taxa de Distorção Idade-série é o indicador educacional que acompanha o percentual de alunos, em cada série, que têm idade acima da esperada para o ano em que estão matriculados. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Taxa de Distorção Idade-Série - Fundamental I
-fund_af_qt_mat_fund_af_todas,Quantidade de estudantes matriculados na etapa de Ensino Fundamental II (anos finais).,Quantidade de Matrículas - Ensino Fundamental II
-fund_af_qt_tur_fund_af_todas,Quantidade de turmas na etapa de Ensino Fundamental II (anos finais).,Quantidade de Turmas - Ensino Fundamental II
-fund_af_qt_doc_fund_af_todas,Quantidade de docentes na etapa de Ensino Fundamental II (anos finais).,Quantidade de Docentes - Ensino Fundamental II
-fund_af_in_agua_rede_publica_todas,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Água de rede pública
-fund_af_in_esgoto_rede_publica_todas,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Esgoto sanitário em rede pública
-fund_af_in_internet_todas,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Internet
-fund_af_in_banheiro_ei_todas,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Banheiro de educação infantil
-fund_af_in_biblioteca_todas,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Biblioteca
-fund_af_in_biblioteca_sala_leitura_todas,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Biblioteca ou sala de leitura
-fund_af_in_parque_infantil_todas,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Parque infantil
-fund_af_in_quadra_esportes_todas,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Quadra de esportes
-fund_af_in_laboratorio_ciencias_todas,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Laboratório de ciências
-fund_af_in_laboratorio_informatica_todas,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Laboratório de informática
-fund_af_in_patio_todas,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Pátio
-fund_af_in_refeitorio_todas,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Refeitório
-fund_af_in_psicologo_assist_social_todas,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Psicólogo ou assistente social
-fund_af_in_alimentacao_todas,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Alimentação
-fund_af_inse_todas,"O Indicador de Nível Socioeconômico é construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do(a) aluno(a) do Saeb (Inse do Saeb). É composto por perguntas relacionadas à moradia e à situação familiar do(a) estudante.",Inse
-fund_af_ideb_fund_af_todas,"O Índice de Desenvolvimento da Educação Básica (Ideb) é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb). A disponibilidade do índice é a partir da etapa de Ensino Fundamental I (anos inciais).",Ideb - Fundamental II
-fund_af_tr_fund_af_todas,"a Taxa de Reprovação indica a porcentagem de alunos que, ao final do ano letivo, não alcançou os critérios mínimos para a conclusão da etapa de ensino. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Taxa de Reprovação - Fundamental II
-fund_af_ta_fund_af_todas,A Taxa de Abandono indica a porcentagem de alunos que deixou de frequentar a escola após a data de referência do Censo Escolar. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).,Taxa de Abandono - Fundamental II
-fund_af_tdi_fund_af_todas,"A Taxa de Distorção Idade-série é o indicador educacional que acompanha o percentual de alunos, em cada série, que têm idade acima da esperada para o ano em que estão matriculados. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Taxa de Distorção Idade-Série - Fundamental II
-med_qt_mat_med_todas,Quantidade de estudantes matriculados na etapa de Ensino Médio.,Quantidade de Matrículas - Ensino Médio
-med_qt_tur_med_todas,Quantidade de turmas na etapa de Ensino Médio.,Quantidade de Turmas - Ensino Médio
-med_qt_doc_med_todas,Quantidade de docentes na etapa de Ensino Médio.,Quantidade de Docentes - Ensino Médio
-med_in_agua_rede_publica_todas,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Água de rede pública
-med_in_esgoto_rede_publica_todas,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Esgoto sanitário em rede pública
-med_in_internet_todas,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Internet
-med_in_banheiro_ei_todas,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Banheiro de educação infantil
-med_in_biblioteca_todas,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Biblioteca
-med_in_biblioteca_sala_leitura_todas,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Biblioteca ou sala de leitura
-med_in_parque_infantil_todas,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Parque infantil
-med_in_quadra_esportes_todas,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Quadra de esportes
-med_in_laboratorio_ciencias_todas,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Laboratório de ciências
-med_in_laboratorio_informatica_todas,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Laboratório de informática
-med_in_patio_todas,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Pátio
-med_in_refeitorio_todas,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Refeitório
-med_in_psicologo_assist_social_todas,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Psicólogo ou assistente social
-med_in_alimentacao_todas,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Alimentação
-med_ideb_med_todas,"O Índice de Desenvolvimento da Educação Básica (Ideb) é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb). A disponibilidade do índice é a partir da etapa de Ensino Fundamental I (anos inciais).",Ideb - Ensino Médio
-med_inse_todas,"O Indicador de Nível Socioeconômico é construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do(a) aluno(a) do Saeb (Inse do Saeb). É composto por perguntas relacionadas à moradia e à situação familiar do(a) estudante.",Inse
-med_tr_med_todas,"a Taxa de Reprovação indica a porcentagem de alunos que, ao final do ano letivo, não alcançou os critérios mínimos para a conclusão da etapa de ensino. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Taxa de Reprovação - Ensino Médio
-med_ta_med_todas,A Taxa de Abandono indica a porcentagem de alunos que deixou de frequentar a escola após a data de referência do Censo Escolar. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).,Taxa de Abandono - Ensino Médio
-med_tdi_med_todas,"A Taxa de Distorção Idade-série é o indicador educacional que acompanha o percentual de alunos, em cada série, que têm idade acima da esperada para o ano em que estão matriculados. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Taxa de Distorção Idade-Série - Ensino Médio
-todas_qt_mat_bas_todas,Quantidade de estudantes matriculados em quaisquer etapas de ensino.,Quantidade de matrículas
-todas_qt_tur_bas_todas,Quantidade de turmas em quaisquer etapas de ensino.,Quantidade de turmas
-todas_qt_doc_bas_todas,Quantidade de docentes em quaisquer etapas de ensino.,Quantidade de docentes
-todas_in_agua_rede_publica_todas,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Água de rede pública
-todas_in_esgoto_rede_publica_todas,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Esgoto sanitário em rede pública
-todas_in_internet_todas,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Internet
-todas_in_banheiro_ei_todas,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Banheiro de educação infantil
-todas_in_biblioteca_todas,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Biblioteca
-todas_in_biblioteca_sala_leitura_todas,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Biblioteca ou sala de leitura
-todas_in_parque_infantil_todas,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Parque infantil
-todas_in_quadra_esportes_todas,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Quadra de esportes
-todas_in_laboratorio_ciencias_todas,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Laboratório de ciências
-todas_in_laboratorio_informatica_todas,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Laboratório de informática
-todas_in_patio_todas,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Pátio
-todas_in_refeitorio_todas,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Refeitório
-todas_in_psicologo_assist_social_todas,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Psicólogo ou assistente social
-todas_in_alimentacao_todas,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Alimentação
-todas_inse_todas,"O Indicador de Nível Socioeconômico é construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do(a) aluno(a) do Saeb (Inse do Saeb). É composto por perguntas relacionadas à moradia e à situação familiar do(a) estudante.",Inse
+indicator_id,m_link_desc,m_link_title,m_link,m_year,m_description,indicator_path,indicator_label
+todas_tp_situacao_funcionamento_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2022,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Situação de funcionamento da escola, em que foram selecionadas somente escolas ativas.",Educação / 2022 / Outros,Situação de funcionamento
+todas_tp_dependencia_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2023,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Dependência administrativa, ou rede de ensino federal, estadual ou municipal.",Educação / 2022 / Outros,Dependência administrativa
+inf_cre_qt_mat_inf_cre_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2024,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Quantidade de estudantes matriculados na etapa ""creche"" da educação infantil.",Educação / 2022 / Creche / Dimensão da escola,Quantidade de matrículas
+inf_cre_qt_mat_inf_cre_mun,,,,,,,Quantidade de matrículas
+inf_cre_qt_mat_inf_cre_est,,,,,,,Quantidade de matrículas
+inf_cre_qt_mat_inf_cre_fed,,,,,,,Quantidade de matrículas
+inf_cre_qt_tur_inf_cre_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2025,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Quantidade de turmas na etapa ""creche"" da educação infantil.",Educação / 2022 / Creche / Dimensão da escola,Quantidade de turmas
+inf_cre_qt_tur_inf_cre_mun,,,,,,,Quantidade de turmas
+inf_cre_qt_tur_inf_cre_est,,,,,,,Quantidade de turmas
+inf_cre_qt_tur_inf_cre_fed,,,,,,,Quantidade de turmas
+inf_cre_qt_doc_inf_cre_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2026,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Quantidade de docentes na etapa ""creche"" da educação infantil.",Educação / 2022 / Creche / Dimensão da escola,Quantidade de docentes
+inf_cre_qt_doc_inf_cre_mun,,,,,,,Quantidade de docentes
+inf_cre_qt_doc_inf_cre_est,,,,,,,Quantidade de docentes
+inf_cre_qt_doc_inf_cre_fed,,,,,,,Quantidade de docentes
+inf_cre_in_agua_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2027,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Educação / 2022 / Creche / Infraestrutura e serviços,Água de rede pública
+inf_cre_in_agua_rede_publica_mun,,,,,,,Água de rede pública
+inf_cre_in_agua_rede_publica_est,,,,,,,Água de rede pública
+inf_cre_in_agua_rede_publica_fed,,,,,,,Água de rede pública
+inf_cre_in_esgoto_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2028,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Educação / 2022 / Creche / Infraestrutura e serviços,Esgoto sanitário em rede pública
+inf_cre_in_esgoto_rede_publica_mun,,,,,,,Esgoto sanitário em rede pública
+inf_cre_in_esgoto_rede_publica_est,,,,,,,Esgoto sanitário em rede pública
+inf_cre_in_esgoto_rede_publica_fed,,,,,,,Esgoto sanitário em rede pública
+inf_cre_in_internet_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2029,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Educação / 2022 / Creche / Infraestrutura e serviços,Internet
+inf_cre_in_internet_mun,,,,,,,Internet
+inf_cre_in_internet_est,,,,,,,Internet
+inf_cre_in_internet_fed,,,,,,,Internet
+inf_cre_in_banheiro_ei_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2030,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Educação / 2022 / Creche / Infraestrutura e serviços,Banheiro de educação infantil
+inf_cre_in_banheiro_ei_mun,,,,,,,Banheiro de educação infantil
+inf_cre_in_banheiro_ei_est,,,,,,,Banheiro de educação infantil
+inf_cre_in_banheiro_ei_fed,,,,,,,Banheiro de educação infantil
+inf_cre_in_biblioteca_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2031,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Educação / 2022 / Creche / Infraestrutura e serviços,Biblioteca
+inf_cre_in_biblioteca_mun,,,,,,,Biblioteca
+inf_cre_in_biblioteca_est,,,,,,,Biblioteca
+inf_cre_in_biblioteca_fed,,,,,,,Biblioteca
+inf_cre_in_biblioteca_sala_leitura_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2032,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Educação / 2022 / Creche / Infraestrutura e serviços,Biblioteca ou sala de leitura
+inf_cre_in_biblioteca_sala_leitura_mun,,,,,,,Biblioteca ou sala de leitura
+inf_cre_in_biblioteca_sala_leitura_est,,,,,,,Biblioteca ou sala de leitura
+inf_cre_in_biblioteca_sala_leitura_fed,,,,,,,Biblioteca ou sala de leitura
+inf_cre_in_parque_infantil_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2033,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Educação / 2022 / Creche / Infraestrutura e serviços,Parque infantil
+inf_cre_in_parque_infantil_mun,,,,,,,Parque infantil
+inf_cre_in_parque_infantil_est,,,,,,,Parque infantil
+inf_cre_in_parque_infantil_fed,,,,,,,Parque infantil
+inf_cre_in_quadra_esportes_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2034,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Educação / 2022 / Creche / Infraestrutura e serviços,Quadra de esportes
+inf_cre_in_quadra_esportes_mun,,,,,,,Quadra de esportes
+inf_cre_in_quadra_esportes_est,,,,,,,Quadra de esportes
+inf_cre_in_quadra_esportes_fed,,,,,,,Quadra de esportes
+inf_cre_in_laboratorio_ciencias_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2035,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Educação / 2022 / Creche / Infraestrutura e serviços,Laboratório de ciências
+inf_cre_in_laboratorio_ciencias_mun,,,,,,,Laboratório de ciências
+inf_cre_in_laboratorio_ciencias_est,,,,,,,Laboratório de ciências
+inf_cre_in_laboratorio_ciencias_fed,,,,,,,Laboratório de ciências
+inf_cre_in_laboratorio_informatica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2036,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Educação / 2022 / Creche / Infraestrutura e serviços,Laboratório de informática
+inf_cre_in_laboratorio_informatica_mun,,,,,,,Laboratório de informática
+inf_cre_in_laboratorio_informatica_est,,,,,,,Laboratório de informática
+inf_cre_in_laboratorio_informatica_fed,,,,,,,Laboratório de informática
+inf_cre_in_patio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2037,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Educação / 2022 / Creche / Infraestrutura e serviços,Pátio
+inf_cre_in_patio_mun,,,,,,,Pátio
+inf_cre_in_patio_est,,,,,,,Pátio
+inf_cre_in_patio_fed,,,,,,,Pátio
+inf_cre_in_refeitorio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2038,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Educação / 2022 / Creche / Infraestrutura e serviços,Refeitório
+inf_cre_in_refeitorio_mun,,,,,,,Refeitório
+inf_cre_in_refeitorio_est,,,,,,,Refeitório
+inf_cre_in_refeitorio_fed,,,,,,,Refeitório
+inf_cre_in_psicologo_assist_social_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2039,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Educação / 2022 / Creche / Infraestrutura e serviços,Psicólogo ou assistente social
+inf_cre_in_psicologo_assist_social_mun,,,,,,,Psicólogo ou assistente social
+inf_cre_in_psicologo_assist_social_est,,,,,,,Psicólogo ou assistente social
+inf_cre_in_psicologo_assist_social_fed,,,,,,,Psicólogo ou assistente social
+inf_cre_in_alimentacao_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2040,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Educação / 2022 / Creche / Infraestrutura e serviços,Alimentação
+inf_cre_in_alimentacao_mun,,,,,,,Alimentação
+inf_cre_in_alimentacao_est,,,,,,,Alimentação
+inf_cre_in_alimentacao_fed,,,,,,,Alimentação
+inf_cre_inse_todas,,,,,,Educação / 2022 / Creche / Nível Socioeconômico (Inse),Inse
+inf_cre_inse_mun,,,,,,,Inse
+inf_cre_inse_est,,,,,,,Inse
+inf_cre_inse_fed,,,,,,,Inse
+inf_pre_qt_mat_inf_pre_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2042,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Quantidade de estudantes matriculados na etapa ""pré-escola"" da educação infantil.",Educação / 2022 / Pré-Escola / Dimensão da escola,Quantidade de Matrículas
+inf_pre_qt_mat_inf_pre_mun,,,,,,,Quantidade de Matrículas
+inf_pre_qt_mat_inf_pre_est,,,,,,,Quantidade de Matrículas
+inf_pre_qt_mat_inf_pre_fed,,,,,,,Quantidade de Matrículas
+inf_pre_qt_tur_inf_pre_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2043,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Quantidade de turmas na etapa ""pré-escola"" da educação infantil.",Educação / 2022 / Pré-Escola / Dimensão da escola,Quantidade de Turmas
+inf_pre_qt_tur_inf_pre_mun,,,,,,,Quantidade de Turmas
+inf_pre_qt_tur_inf_pre_est,,,,,,,Quantidade de Turmas
+inf_pre_qt_tur_inf_pre_fed,,,,,,,Quantidade de Turmas
+inf_pre_qt_doc_inf_pre_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2044,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Quantidade de docentes na etapa ""pré-escola"" da educação infantil.",Educação / 2022 / Pré-Escola / Dimensão da escola,Quantidade de Docentes 
+inf_pre_qt_doc_inf_pre_mun,,,,,,,Quantidade de Docentes 
+inf_pre_qt_doc_inf_pre_est,,,,,,,Quantidade de Docentes 
+inf_pre_qt_doc_inf_pre_fed,,,,,,,Quantidade de Docentes 
+inf_pre_in_agua_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2045,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Água de rede pública
+inf_pre_in_agua_rede_publica_mun,,,,,,,Água de rede pública
+inf_pre_in_agua_rede_publica_est,,,,,,,Água de rede pública
+inf_pre_in_agua_rede_publica_fed,,,,,,,Água de rede pública
+inf_pre_in_esgoto_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2046,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Esgoto sanitário em rede pública
+inf_pre_in_esgoto_rede_publica_mun,,,,,,,Esgoto sanitário em rede pública
+inf_pre_in_esgoto_rede_publica_est,,,,,,,Esgoto sanitário em rede pública
+inf_pre_in_esgoto_rede_publica_fed,,,,,,,Esgoto sanitário em rede pública
+inf_pre_in_internet_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2047,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Internet
+inf_pre_in_internet_mun,,,,,,,Internet
+inf_pre_in_internet_est,,,,,,,Internet
+inf_pre_in_internet_fed,,,,,,,Internet
+inf_pre_in_banheiro_ei_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2048,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Banheiro de educação infantil
+inf_pre_in_banheiro_ei_mun,,,,,,,Banheiro de educação infantil
+inf_pre_in_banheiro_ei_est,,,,,,,Banheiro de educação infantil
+inf_pre_in_banheiro_ei_fed,,,,,,,Banheiro de educação infantil
+inf_pre_in_biblioteca_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2049,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Biblioteca
+inf_pre_in_biblioteca_mun,,,,,,,Biblioteca
+inf_pre_in_biblioteca_est,,,,,,,Biblioteca
+inf_pre_in_biblioteca_fed,,,,,,,Biblioteca
+inf_pre_in_biblioteca_sala_leitura_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2050,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Biblioteca ou sala de leitura
+inf_pre_in_biblioteca_sala_leitura_mun,,,,,,,Biblioteca ou sala de leitura
+inf_pre_in_biblioteca_sala_leitura_est,,,,,,,Biblioteca ou sala de leitura
+inf_pre_in_biblioteca_sala_leitura_fed,,,,,,,Biblioteca ou sala de leitura
+inf_pre_in_parque_infantil_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2051,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Parque infantil
+inf_pre_in_parque_infantil_mun,,,,,,,Parque infantil
+inf_pre_in_parque_infantil_est,,,,,,,Parque infantil
+inf_pre_in_parque_infantil_fed,,,,,,,Parque infantil
+inf_pre_in_quadra_esportes_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2052,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Quadra de esportes
+inf_pre_in_quadra_esportes_mun,,,,,,,Quadra de esportes
+inf_pre_in_quadra_esportes_est,,,,,,,Quadra de esportes
+inf_pre_in_quadra_esportes_fed,,,,,,,Quadra de esportes
+inf_pre_in_laboratorio_ciencias_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2053,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Laboratório de ciências
+inf_pre_in_laboratorio_ciencias_mun,,,,,,,Laboratório de ciências
+inf_pre_in_laboratorio_ciencias_est,,,,,,,Laboratório de ciências
+inf_pre_in_laboratorio_ciencias_fed,,,,,,,Laboratório de ciências
+inf_pre_in_laboratorio_informatica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2054,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Laboratório de informática
+inf_pre_in_laboratorio_informatica_mun,,,,,,,Laboratório de informática
+inf_pre_in_laboratorio_informatica_est,,,,,,,Laboratório de informática
+inf_pre_in_laboratorio_informatica_fed,,,,,,,Laboratório de informática
+inf_pre_in_patio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2055,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Pátio
+inf_pre_in_patio_mun,,,,,,,Pátio
+inf_pre_in_patio_est,,,,,,,Pátio
+inf_pre_in_patio_fed,,,,,,,Pátio
+inf_pre_in_refeitorio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2056,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Refeitório
+inf_pre_in_refeitorio_mun,,,,,,,Refeitório
+inf_pre_in_refeitorio_est,,,,,,,Refeitório
+inf_pre_in_refeitorio_fed,,,,,,,Refeitório
+inf_pre_in_psicologo_assist_social_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2057,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Psicólogo ou assistente social
+inf_pre_in_psicologo_assist_social_mun,,,,,,,Psicólogo ou assistente social
+inf_pre_in_psicologo_assist_social_est,,,,,,,Psicólogo ou assistente social
+inf_pre_in_psicologo_assist_social_fed,,,,,,,Psicólogo ou assistente social
+inf_pre_in_alimentacao_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2058,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Educação / 2022 / Pré-Escola / Infraestrutura e serviços,Alimentação
+inf_pre_in_alimentacao_mun,,,,,,,Alimentação
+inf_pre_in_alimentacao_est,,,,,,,Alimentação
+inf_pre_in_alimentacao_fed,,,,,,,Alimentação
+inf_pre_inse_todas,,,,2022,,Educação / 2022 / Pré-Escola / Nível Socioeconômico (Inse),Inse
+inf_pre_inse_mun,,,,,,,Inse
+inf_pre_inse_est,,,,,,,Inse
+inf_pre_inse_fed,,,,,,,Inse
+fund_ai_qt_mat_fund_ai_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2060,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Quantidade de estudantes matriculados na etapa de Ensino Fundamental I (anos iniciais).,Educação / 2022 / Fundamental I / Dimensão da escola,Quantidade de Matrículas
+fund_ai_qt_mat_fund_ai_mun,,,,,,,Quantidade de Matrículas
+fund_ai_qt_mat_fund_ai_est,,,,,,,Quantidade de Matrículas
+fund_ai_qt_mat_fund_ai_fed,,,,,,,Quantidade de Matrículas
+fund_ai_qt_tur_fund_ai_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2061,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Quantidade de turmas na etapa de Ensino Fundamental I (anos iniciais).,Educação / 2022 / Fundamental I / Dimensão da escola,Quantidade de Turmas 
+fund_ai_qt_tur_fund_ai_mun,,,,,,,Quantidade de Turmas 
+fund_ai_qt_tur_fund_ai_est,,,,,,,Quantidade de Turmas 
+fund_ai_qt_tur_fund_ai_fed,,,,,,,Quantidade de Turmas 
+fund_ai_qt_doc_fund_ai_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2062,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Quantidade de docentes na etapa de Ensino Fundamental I (anos iniciais).,Educação / 2022 / Fundamental I / Dimensão da escola,Quantidade de Docentes 
+fund_ai_qt_doc_fund_ai_mun,,,,,,,Quantidade de Docentes 
+fund_ai_qt_doc_fund_ai_est,,,,,,,Quantidade de Docentes 
+fund_ai_qt_doc_fund_ai_fed,,,,,,,Quantidade de Docentes 
+fund_ai_in_agua_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2063,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Água de rede pública
+fund_ai_in_agua_rede_publica_mun,,,,,,,Água de rede pública
+fund_ai_in_agua_rede_publica_est,,,,,,,Água de rede pública
+fund_ai_in_agua_rede_publica_fed,,,,,,,Água de rede pública
+fund_ai_in_esgoto_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2064,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Educação / 2022 / Fundamental I / Infraestrutura e serviços,Esgoto sanitário em rede pública
+fund_ai_in_esgoto_rede_publica_mun,,,,,,,Esgoto sanitário em rede pública
+fund_ai_in_esgoto_rede_publica_est,,,,,,,Esgoto sanitário em rede pública
+fund_ai_in_esgoto_rede_publica_fed,,,,,,,Esgoto sanitário em rede pública
+fund_ai_in_internet_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2065,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Internet
+fund_ai_in_internet_mun,,,,,,,Internet
+fund_ai_in_internet_est,,,,,,,Internet
+fund_ai_in_internet_fed,,,,,,,Internet
+fund_ai_in_banheiro_ei_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2066,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Educação / 2022 / Fundamental I / Infraestrutura e serviços,Banheiro de educação infantil
+fund_ai_in_banheiro_ei_mun,,,,,,,Banheiro de educação infantil
+fund_ai_in_banheiro_ei_est,,,,,,,Banheiro de educação infantil
+fund_ai_in_banheiro_ei_fed,,,,,,,Banheiro de educação infantil
+fund_ai_in_biblioteca_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2067,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Biblioteca
+fund_ai_in_biblioteca_mun,,,,,,,Biblioteca
+fund_ai_in_biblioteca_est,,,,,,,Biblioteca
+fund_ai_in_biblioteca_fed,,,,,,,Biblioteca
+fund_ai_in_biblioteca_sala_leitura_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2068,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Biblioteca ou sala de leitura
+fund_ai_in_biblioteca_sala_leitura_mun,,,,,,,Biblioteca ou sala de leitura
+fund_ai_in_biblioteca_sala_leitura_est,,,,,,,Biblioteca ou sala de leitura
+fund_ai_in_biblioteca_sala_leitura_fed,,,,,,,Biblioteca ou sala de leitura
+fund_ai_in_parque_infantil_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2069,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Parque infantil
+fund_ai_in_parque_infantil_mun,,,,,,,Parque infantil
+fund_ai_in_parque_infantil_est,,,,,,,Parque infantil
+fund_ai_in_parque_infantil_fed,,,,,,,Parque infantil
+fund_ai_in_quadra_esportes_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2070,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Quadra de esportes
+fund_ai_in_quadra_esportes_mun,,,,,,,Quadra de esportes
+fund_ai_in_quadra_esportes_est,,,,,,,Quadra de esportes
+fund_ai_in_quadra_esportes_fed,,,,,,,Quadra de esportes
+fund_ai_in_laboratorio_ciencias_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2071,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Laboratório de ciências
+fund_ai_in_laboratorio_ciencias_mun,,,,,,,Laboratório de ciências
+fund_ai_in_laboratorio_ciencias_est,,,,,,,Laboratório de ciências
+fund_ai_in_laboratorio_ciencias_fed,,,,,,,Laboratório de ciências
+fund_ai_in_laboratorio_informatica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2072,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Laboratório de informática
+fund_ai_in_laboratorio_informatica_mun,,,,,,,Laboratório de informática
+fund_ai_in_laboratorio_informatica_est,,,,,,,Laboratório de informática
+fund_ai_in_laboratorio_informatica_fed,,,,,,,Laboratório de informática
+fund_ai_in_patio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2073,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Pátio
+fund_ai_in_patio_mun,,,,,,,Pátio
+fund_ai_in_patio_est,,,,,,,Pátio
+fund_ai_in_patio_fed,,,,,,,Pátio
+fund_ai_in_refeitorio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2074,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Refeitório
+fund_ai_in_refeitorio_mun,,,,,,,Refeitório
+fund_ai_in_refeitorio_est,,,,,,,Refeitório
+fund_ai_in_refeitorio_fed,,,,,,,Refeitório
+fund_ai_in_psicologo_assist_social_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2075,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Educação / 2022 / Fundamental I / Infraestrutura e serviços,Psicólogo ou assistente social
+fund_ai_in_psicologo_assist_social_mun,,,,,,,Psicólogo ou assistente social
+fund_ai_in_psicologo_assist_social_est,,,,,,,Psicólogo ou assistente social
+fund_ai_in_psicologo_assist_social_fed,,,,,,,Psicólogo ou assistente social
+fund_ai_in_alimentacao_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2076,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022,2022,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Educação / 2022 / Fundamental I / Infraestrutura e serviços,Alimentação
+fund_ai_in_alimentacao_mun,,,,,,,Alimentação
+fund_ai_in_alimentacao_est,,,,,,,Alimentação
+fund_ai_in_alimentacao_fed,,,,,,,Alimentação
+fund_ai_ideb_fund_ai_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Índice de Desenvolvimento da Educação Básica,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"O Índice de Desenvolvimento da Educação Básica (Ideb) é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb). A disponibilidade do índice é a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Fundamental I / Índices e taxas educacionais,Ideb - Fundamental I
+fund_ai_ideb_fund_ai_mun,,,,,,,Ideb - Fundamental I
+fund_ai_ideb_fund_ai_est,,,,,,,Ideb - Fundamental I
+fund_ai_ideb_fund_ai_fed,,,,,,,Ideb - Fundamental I
+fund_ai_inse_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Nível Socioeconômico,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/nivel-socioeconomico,2021,"O Indicador de Nível Socioeconômico é construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do(a) aluno(a) do Saeb (Inse do Saeb). É composto por perguntas relacionadas à moradia e à situação familiar do(a) estudante.",Educação / 2022 / Fundamental I / Índices e taxas educacionais,Inse
+fund_ai_inse_mun,,,,,,,Inse
+fund_ai_inse_est,,,,,,,Inse
+fund_ai_inse_fed,,,,,,,Inse
+fund_ai_tr_fund_ai_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Reprovação,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"a Taxa de Reprovação indica a porcentagem de alunos que, ao final do ano letivo, não alcançou os critérios mínimos para a conclusão da etapa de ensino. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Fundamental I / Índices e taxas educacionais,Taxa de Reprovação - Fundamental I
+fund_ai_tr_fund_ai_mun,,,,,,,Taxa de Reprovação - Fundamental I
+fund_ai_tr_fund_ai_est,,,,,,,Taxa de Reprovação - Fundamental I
+fund_ai_tr_fund_ai_fed,,,,,,,Taxa de Reprovação - Fundamental I
+fund_ai_ta_fund_ai_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Abandono,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,A Taxa de Abandono indica a porcentagem de alunos que deixou de frequentar a escola após a data de referência do Censo Escolar. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).,Educação / 2022 / Fundamental I / Índices e taxas educacionais,Taxa de Abandono - Fundamental I
+fund_ai_ta_fund_ai_mun,,,,,,,Taxa de Abandono - Fundamental I
+fund_ai_ta_fund_ai_est,,,,,,,Taxa de Abandono - Fundamental I
+fund_ai_ta_fund_ai_fed,,,,,,,Taxa de Abandono - Fundamental I
+fund_ai_tdi_fund_ai_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Distorção Idade-série,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"A Taxa de Distorção Idade-série é o indicador educacional que acompanha o percentual de alunos, em cada série, que têm idade acima da esperada para o ano em que estão matriculados. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Fundamental I / Índices e taxas educacionais,Taxa de Distorção Idade-Série - Fundamental I
+fund_ai_tdi_fund_ai_mun,,,,,,,Taxa de Distorção Idade-Série - Fundamental I
+fund_ai_tdi_fund_ai_est,,,,,,,Taxa de Distorção Idade-Série - Fundamental I
+fund_ai_tdi_fund_ai_fed,,,,,,,Taxa de Distorção Idade-Série - Fundamental I
+fund_af_qt_mat_fund_af_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2082,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Quantidade de estudantes matriculados na etapa de Ensino Fundamental II (anos finais).,Educação / 2022 / Fundamental II / Dimensão da escola,Quantidade de Matrículas - Ensino Fundamental II
+fund_af_qt_mat_fund_af_mun,,,,,,,Quantidade de Matrículas - Ensino Fundamental II
+fund_af_qt_mat_fund_af_est,,,,,,,Quantidade de Matrículas - Ensino Fundamental II
+fund_af_qt_mat_fund_af_fed,,,,,,,Quantidade de Matrículas - Ensino Fundamental II
+fund_af_qt_tur_fund_af_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2083,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Quantidade de turmas na etapa de Ensino Fundamental II (anos finais).,Educação / 2022 / Fundamental II / Dimensão da escola,Quantidade de Turmas - Ensino Fundamental II
+fund_af_qt_tur_fund_af_mun,,,,,,,Quantidade de Turmas - Ensino Fundamental II
+fund_af_qt_tur_fund_af_est,,,,,,,Quantidade de Turmas - Ensino Fundamental II
+fund_af_qt_tur_fund_af_fed,,,,,,,Quantidade de Turmas - Ensino Fundamental II
+fund_af_qt_doc_fund_af_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2084,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Quantidade de docentes na etapa de Ensino Fundamental II (anos finais).,Educação / 2022 / Fundamental II / Dimensão da escola,Quantidade de Docentes - Ensino Fundamental II
+fund_af_qt_doc_fund_af_mun,,,,,,,Quantidade de Docentes - Ensino Fundamental II
+fund_af_qt_doc_fund_af_est,,,,,,,Quantidade de Docentes - Ensino Fundamental II
+fund_af_qt_doc_fund_af_fed,,,,,,,Quantidade de Docentes - Ensino Fundamental II
+fund_af_in_agua_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2085,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Água de rede pública
+fund_af_in_agua_rede_publica_mun,,,,,,,Água de rede pública
+fund_af_in_agua_rede_publica_est,,,,,,,Água de rede pública
+fund_af_in_agua_rede_publica_fed,,,,,,,Água de rede pública
+fund_af_in_esgoto_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2086,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Educação / 2022 / Fundamental II / Infraestrutura e serviços,Esgoto sanitário em rede pública
+fund_af_in_esgoto_rede_publica_mun,,,,,,,Esgoto sanitário em rede pública
+fund_af_in_esgoto_rede_publica_est,,,,,,,Esgoto sanitário em rede pública
+fund_af_in_esgoto_rede_publica_fed,,,,,,,Esgoto sanitário em rede pública
+fund_af_in_internet_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2087,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Internet
+fund_af_in_internet_mun,,,,,,,Internet
+fund_af_in_internet_est,,,,,,,Internet
+fund_af_in_internet_fed,,,,,,,Internet
+fund_af_in_banheiro_ei_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2088,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Educação / 2022 / Fundamental II / Infraestrutura e serviços,Banheiro de educação infantil
+fund_af_in_banheiro_ei_mun,,,,,,,Banheiro de educação infantil
+fund_af_in_banheiro_ei_est,,,,,,,Banheiro de educação infantil
+fund_af_in_banheiro_ei_fed,,,,,,,Banheiro de educação infantil
+fund_af_in_biblioteca_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2089,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Biblioteca
+fund_af_in_biblioteca_mun,,,,,,,Biblioteca
+fund_af_in_biblioteca_est,,,,,,,Biblioteca
+fund_af_in_biblioteca_fed,,,,,,,Biblioteca
+fund_af_in_biblioteca_sala_leitura_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2090,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Biblioteca ou sala de leitura
+fund_af_in_biblioteca_sala_leitura_mun,,,,,,,Biblioteca ou sala de leitura
+fund_af_in_biblioteca_sala_leitura_est,,,,,,,Biblioteca ou sala de leitura
+fund_af_in_biblioteca_sala_leitura_fed,,,,,,,Biblioteca ou sala de leitura
+fund_af_in_parque_infantil_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2091,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Parque infantil
+fund_af_in_parque_infantil_mun,,,,,,,Parque infantil
+fund_af_in_parque_infantil_est,,,,,,,Parque infantil
+fund_af_in_parque_infantil_fed,,,,,,,Parque infantil
+fund_af_in_quadra_esportes_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2092,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Quadra de esportes
+fund_af_in_quadra_esportes_mun,,,,,,,Quadra de esportes
+fund_af_in_quadra_esportes_est,,,,,,,Quadra de esportes
+fund_af_in_quadra_esportes_fed,,,,,,,Quadra de esportes
+fund_af_in_laboratorio_ciencias_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2093,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Laboratório de ciências
+fund_af_in_laboratorio_ciencias_mun,,,,,,,Laboratório de ciências
+fund_af_in_laboratorio_ciencias_est,,,,,,,Laboratório de ciências
+fund_af_in_laboratorio_ciencias_fed,,,,,,,Laboratório de ciências
+fund_af_in_laboratorio_informatica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2094,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Laboratório de informática
+fund_af_in_laboratorio_informatica_mun,,,,,,,Laboratório de informática
+fund_af_in_laboratorio_informatica_est,,,,,,,Laboratório de informática
+fund_af_in_laboratorio_informatica_fed,,,,,,,Laboratório de informática
+fund_af_in_patio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2095,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Pátio
+fund_af_in_patio_mun,,,,,,,Pátio
+fund_af_in_patio_est,,,,,,,Pátio
+fund_af_in_patio_fed,,,,,,,Pátio
+fund_af_in_refeitorio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2096,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Refeitório
+fund_af_in_refeitorio_mun,,,,,,,Refeitório
+fund_af_in_refeitorio_est,,,,,,,Refeitório
+fund_af_in_refeitorio_fed,,,,,,,Refeitório
+fund_af_in_psicologo_assist_social_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2097,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Educação / 2022 / Fundamental II / Infraestrutura e serviços,Psicólogo ou assistente social
+fund_af_in_psicologo_assist_social_mun,,,,,,,Psicólogo ou assistente social
+fund_af_in_psicologo_assist_social_est,,,,,,,Psicólogo ou assistente social
+fund_af_in_psicologo_assist_social_fed,,,,,,,Psicólogo ou assistente social
+fund_af_in_alimentacao_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2098,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Educação / 2022 / Fundamental II / Infraestrutura e serviços,Alimentação
+fund_af_in_alimentacao_mun,,,,,,,Alimentação
+fund_af_in_alimentacao_est,,,,,,,Alimentação
+fund_af_in_alimentacao_fed,,,,,,,Alimentação
+fund_af_inse_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Nível Socioeconômico,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"O Indicador de Nível Socioeconômico é construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do(a) aluno(a) do Saeb (Inse do Saeb). É composto por perguntas relacionadas à moradia e à situação familiar do(a) estudante.",Educação / 2022 / Fundamental II / Índices e taxas educacionais,Inse
+fund_af_inse_mun,,,,,,,Inse
+fund_af_inse_est,,,,,,,Inse
+fund_af_inse_fed,,,,,,,Inse
+fund_af_ideb_fund_af_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Índice de Desenvolvimento da Educação Básica,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"O Índice de Desenvolvimento da Educação Básica (Ideb) é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb). A disponibilidade do índice é a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Fundamental II / Índices e taxas educacionais,Ideb - Fundamental II
+fund_af_ideb_fund_af_mun,,,,,,,Ideb - Fundamental II
+fund_af_ideb_fund_af_est,,,,,,,Ideb - Fundamental II
+fund_af_ideb_fund_af_fed,,,,,,,Ideb - Fundamental II
+fund_af_tr_fund_af_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Reprovação,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/nivel-socioeconomico,2021,"a Taxa de Reprovação indica a porcentagem de alunos que, ao final do ano letivo, não alcançou os critérios mínimos para a conclusão da etapa de ensino. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Fundamental II / Índices e taxas educacionais,Taxa de Reprovação - Fundamental II
+fund_af_tr_fund_af_mun,,,,,,,Taxa de Reprovação - Fundamental II
+fund_af_tr_fund_af_est,,,,,,,Taxa de Reprovação - Fundamental II
+fund_af_tr_fund_af_fed,,,,,,,Taxa de Reprovação - Fundamental II
+fund_af_ta_fund_af_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Abandono,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,A Taxa de Abandono indica a porcentagem de alunos que deixou de frequentar a escola após a data de referência do Censo Escolar. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).,Educação / 2022 / Fundamental II / Índices e taxas educacionais,Taxa de Abandono - Fundamental II
+fund_af_ta_fund_af_mun,,,,,,,Taxa de Abandono - Fundamental II
+fund_af_ta_fund_af_est,,,,,,,Taxa de Abandono - Fundamental II
+fund_af_ta_fund_af_fed,,,,,,,Taxa de Abandono - Fundamental II
+fund_af_tdi_fund_af_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Distorção Idade-série,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"A Taxa de Distorção Idade-série é o indicador educacional que acompanha o percentual de alunos, em cada série, que têm idade acima da esperada para o ano em que estão matriculados. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Fundamental II / Índices e taxas educacionais,Taxa de Distorção Idade-Série - Fundamental II
+fund_af_tdi_fund_af_mun,,,,,,,Taxa de Distorção Idade-Série - Fundamental II
+fund_af_tdi_fund_af_est,,,,,,,Taxa de Distorção Idade-Série - Fundamental II
+fund_af_tdi_fund_af_fed,,,,,,,Taxa de Distorção Idade-Série - Fundamental II
+med_qt_mat_med_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2104,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,Quantidade de estudantes matriculados na etapa de Ensino Médio.,Educação / 2022 / Ensino Médio / Dimensão da escola,Quantidade de Matrículas - Ensino Médio
+med_qt_mat_med_mun,,,,,,,Quantidade de Matrículas - Ensino Médio
+med_qt_mat_med_est,,,,,,,Quantidade de Matrículas - Ensino Médio
+med_qt_mat_med_fed,,,,,,,Quantidade de Matrículas - Ensino Médio
+med_qt_tur_med_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2105,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Quantidade de turmas na etapa de Ensino Médio.,Educação / 2022 / Ensino Médio / Dimensão da escola,Quantidade de Turmas - Ensino Médio
+med_qt_tur_med_mun,,,,,,,Quantidade de Turmas - Ensino Médio
+med_qt_tur_med_est,,,,,,,Quantidade de Turmas - Ensino Médio
+med_qt_tur_med_fed,,,,,,,Quantidade de Turmas - Ensino Médio
+med_qt_doc_med_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2106,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,Quantidade de docentes na etapa de Ensino Médio.,Educação / 2022 / Ensino Médio / Dimensão da escola,Quantidade de Docentes - Ensino Médio
+med_qt_doc_med_mun,,,,,,,Quantidade de Docentes - Ensino Médio
+med_qt_doc_med_est,,,,,,,Quantidade de Docentes - Ensino Médio
+med_qt_doc_med_fed,,,,,,,Quantidade de Docentes - Ensino Médio
+med_in_agua_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2107,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Água de rede pública
+med_in_agua_rede_publica_mun,,,,,,,Água de rede pública
+med_in_agua_rede_publica_est,,,,,,,Água de rede pública
+med_in_agua_rede_publica_fed,,,,,,,Água de rede pública
+med_in_esgoto_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2108,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Esgoto sanitário em rede pública
+med_in_esgoto_rede_publica_mun,,,,,,,Esgoto sanitário em rede pública
+med_in_esgoto_rede_publica_est,,,,,,,Esgoto sanitário em rede pública
+med_in_esgoto_rede_publica_fed,,,,,,,Esgoto sanitário em rede pública
+med_in_internet_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2109,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Internet
+med_in_internet_mun,,,,,,,Internet
+med_in_internet_est,,,,,,,Internet
+med_in_internet_fed,,,,,,,Internet
+med_in_banheiro_ei_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2110,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Banheiro de educação infantil
+med_in_banheiro_ei_mun,,,,,,,Banheiro de educação infantil
+med_in_banheiro_ei_est,,,,,,,Banheiro de educação infantil
+med_in_banheiro_ei_fed,,,,,,,Banheiro de educação infantil
+med_in_biblioteca_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2111,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Biblioteca
+med_in_biblioteca_mun,,,,,,,Biblioteca
+med_in_biblioteca_est,,,,,,,Biblioteca
+med_in_biblioteca_fed,,,,,,,Biblioteca
+med_in_biblioteca_sala_leitura_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2112,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Biblioteca ou sala de leitura
+med_in_biblioteca_sala_leitura_mun,,,,,,,Biblioteca ou sala de leitura
+med_in_biblioteca_sala_leitura_est,,,,,,,Biblioteca ou sala de leitura
+med_in_biblioteca_sala_leitura_fed,,,,,,,Biblioteca ou sala de leitura
+med_in_parque_infantil_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2113,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Parque infantil
+med_in_parque_infantil_mun,,,,,,,Parque infantil
+med_in_parque_infantil_est,,,,,,,Parque infantil
+med_in_parque_infantil_fed,,,,,,,Parque infantil
+med_in_quadra_esportes_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2114,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Quadra de esportes
+med_in_quadra_esportes_mun,,,,,,,Quadra de esportes
+med_in_quadra_esportes_est,,,,,,,Quadra de esportes
+med_in_quadra_esportes_fed,,,,,,,Quadra de esportes
+med_in_laboratorio_ciencias_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2115,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Laboratório de ciências
+med_in_laboratorio_ciencias_mun,,,,,,,Laboratório de ciências
+med_in_laboratorio_ciencias_est,,,,,,,Laboratório de ciências
+med_in_laboratorio_ciencias_fed,,,,,,,Laboratório de ciências
+med_in_laboratorio_informatica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2116,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Laboratório de informática
+med_in_laboratorio_informatica_mun,,,,,,,Laboratório de informática
+med_in_laboratorio_informatica_est,,,,,,,Laboratório de informática
+med_in_laboratorio_informatica_fed,,,,,,,Laboratório de informática
+med_in_patio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2117,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Pátio
+med_in_patio_mun,,,,,,,Pátio
+med_in_patio_est,,,,,,,Pátio
+med_in_patio_fed,,,,,,,Pátio
+med_in_refeitorio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2118,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Refeitório
+med_in_refeitorio_mun,,,,,,,Refeitório
+med_in_refeitorio_est,,,,,,,Refeitório
+med_in_refeitorio_fed,,,,,,,Refeitório
+med_in_psicologo_assist_social_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2119,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Psicólogo ou assistente social
+med_in_psicologo_assist_social_mun,,,,,,,Psicólogo ou assistente social
+med_in_psicologo_assist_social_est,,,,,,,Psicólogo ou assistente social
+med_in_psicologo_assist_social_fed,,,,,,,Psicólogo ou assistente social
+med_in_alimentacao_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2120,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Educação / 2022 / Ensino Médio / Infraestrutura e serviços,Alimentação
+med_in_alimentacao_mun,,,,,,,Alimentação
+med_in_alimentacao_est,,,,,,,Alimentação
+med_in_alimentacao_fed,,,,,,,Alimentação
+med_ideb_med_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Índice de Desenvolvimento da Educação Básica,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"O Índice de Desenvolvimento da Educação Básica (Ideb) é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb). A disponibilidade do índice é a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Ensino Médio / Índices e taxas educacionais,Ideb - Ensino Médio
+med_ideb_med_mun,,,,,,,Ideb - Ensino Médio
+med_ideb_med_est,,,,,,,Ideb - Ensino Médio
+med_ideb_med_fed,,,,,,,Ideb - Ensino Médio
+med_inse_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Nível Socioeconômico,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/nivel-socioeconomico,2021,"O Indicador de Nível Socioeconômico é construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do(a) aluno(a) do Saeb (Inse do Saeb). É composto por perguntas relacionadas à moradia e à situação familiar do(a) estudante.",Educação / 2022 / Ensino Médio / Índices e taxas educacionais,Inse
+med_inse_mun,,,,,,,Inse
+med_inse_est,,,,,,,Inse
+med_inse_fed,,,,,,,Inse
+med_tr_med_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Reprovação,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"a Taxa de Reprovação indica a porcentagem de alunos que, ao final do ano letivo, não alcançou os critérios mínimos para a conclusão da etapa de ensino. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Ensino Médio / Índices e taxas educacionais,Taxa de Reprovação - Ensino Médio
+med_tr_med_mun,,,,,,,Taxa de Reprovação - Ensino Médio
+med_tr_med_est,,,,,,,Taxa de Reprovação - Ensino Médio
+med_tr_med_fed,,,,,,,Taxa de Reprovação - Ensino Médio
+med_ta_med_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Abandono,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,A Taxa de Abandono indica a porcentagem de alunos que deixou de frequentar a escola após a data de referência do Censo Escolar. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).,Educação / 2022 / Ensino Médio / Índices e taxas educacionais,Taxa de Abandono - Ensino Médio
+med_ta_med_mun,,,,,,,Taxa de Abandono - Ensino Médio
+med_ta_med_est,,,,,,,Taxa de Abandono - Ensino Médio
+med_ta_med_fed,,,,,,,Taxa de Abandono - Ensino Médio
+med_tdi_med_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Taxa de Distorção Idade-série,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"A Taxa de Distorção Idade-série é o indicador educacional que acompanha o percentual de alunos, em cada série, que têm idade acima da esperada para o ano em que estão matriculados. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).",Educação / 2022 / Ensino Médio / Índices e taxas educacionais,Taxa de Distorção Idade-Série - Ensino Médio
+med_tdi_med_mun,,,,,,,Taxa de Distorção Idade-Série - Ensino Médio
+med_tdi_med_est,,,,,,,Taxa de Distorção Idade-Série - Ensino Médio
+med_tdi_med_fed,,,,,,,Taxa de Distorção Idade-Série - Ensino Médio
+todas_qt_mat_bas_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2126,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Quantidade de estudantes matriculados em quaisquer etapas de ensino.,Educação / 2022 / Todas as etapas / Dimensão da escola,Quantidade de matrículas
+todas_qt_mat_bas_mun,,,,,,,Quantidade de matrículas
+todas_qt_mat_bas_est,,,,,,,Quantidade de matrículas
+todas_qt_mat_bas_fed,,,,,,,Quantidade de matrículas
+todas_qt_tur_bas_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2127,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,Quantidade de turmas em quaisquer etapas de ensino.,Educação / 2022 / Todas as etapas / Dimensão da escola,Quantidade de turmas
+todas_qt_tur_bas_mun,,,,,,,Quantidade de turmas
+todas_qt_tur_bas_est,,,,,,,Quantidade de turmas
+todas_qt_tur_bas_fed,,,,,,,Quantidade de turmas
+todas_qt_doc_bas_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2128,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Quantidade de docentes em quaisquer etapas de ensino.,Educação / 2022 / Todas as etapas / Dimensão da escola,Quantidade de docentes
+todas_qt_doc_bas_mun,,,,,,,Quantidade de docentes
+todas_qt_doc_bas_est,,,,,,,Quantidade de docentes
+todas_qt_doc_bas_fed,,,,,,,Quantidade de docentes
+todas_in_agua_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2129,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Água de rede pública
+todas_in_agua_rede_publica_mun,,,,,,,Água de rede pública
+todas_in_agua_rede_publica_est,,,,,,,Água de rede pública
+todas_in_agua_rede_publica_fed,,,,,,,Água de rede pública
+todas_in_esgoto_rede_publica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2130,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Presença de serviço público que abrange a captação de esgoto por rede coletora.,Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Esgoto sanitário em rede pública
+todas_in_esgoto_rede_publica_mun,,,,,,,Esgoto sanitário em rede pública
+todas_in_esgoto_rede_publica_est,,,,,,,Esgoto sanitário em rede pública
+todas_in_esgoto_rede_publica_fed,,,,,,,Esgoto sanitário em rede pública
+todas_in_internet_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2131,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de redes locais de conexão ""wireless"" para dispositivos.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Internet
+todas_in_internet_mun,,,,,,,Internet
+todas_in_internet_est,,,,,,,Internet
+todas_in_internet_fed,,,,,,,Internet
+todas_in_banheiro_ei_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2132,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.,Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Banheiro de educação infantil
+todas_in_banheiro_ei_mun,,,,,,,Banheiro de educação infantil
+todas_in_banheiro_ei_est,,,,,,,Banheiro de educação infantil
+todas_in_banheiro_ei_fed,,,,,,,Banheiro de educação infantil
+todas_in_biblioteca_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2133,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de biblioteca na escola, ou seja, ""local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário.""",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Biblioteca
+todas_in_biblioteca_mun,,,,,,,Biblioteca
+todas_in_biblioteca_est,,,,,,,Biblioteca
+todas_in_biblioteca_fed,,,,,,,Biblioteca
+todas_in_biblioteca_sala_leitura_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2134,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos"" que esteja fora de uma eventual biblioteca.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Biblioteca ou sala de leitura
+todas_in_biblioteca_sala_leitura_mun,,,,,,,Biblioteca ou sala de leitura
+todas_in_biblioteca_sala_leitura_est,,,,,,,Biblioteca ou sala de leitura
+todas_in_biblioteca_sala_leitura_fed,,,,,,,Biblioteca ou sala de leitura
+todas_in_parque_infantil_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2135,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Parque infantil
+todas_in_parque_infantil_mun,,,,,,,Parque infantil
+todas_in_parque_infantil_est,,,,,,,Parque infantil
+todas_in_parque_infantil_fed,,,,,,,Parque infantil
+todas_in_quadra_esportes_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2136,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Quadra de esportes
+todas_in_quadra_esportes_mun,,,,,,,Quadra de esportes
+todas_in_quadra_esportes_est,,,,,,,Quadra de esportes
+todas_in_quadra_esportes_fed,,,,,,,Quadra de esportes
+todas_in_laboratorio_ciencias_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2137,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Laboratório de ciências
+todas_in_laboratorio_ciencias_mun,,,,,,,Laboratório de ciências
+todas_in_laboratorio_ciencias_est,,,,,,,Laboratório de ciências
+todas_in_laboratorio_ciencias_fed,,,,,,,Laboratório de ciências
+todas_in_laboratorio_informatica_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2138,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Laboratório de informática
+todas_in_laboratorio_informatica_mun,,,,,,,Laboratório de informática
+todas_in_laboratorio_informatica_est,,,,,,,Laboratório de informática
+todas_in_laboratorio_informatica_fed,,,,,,,Laboratório de informática
+todas_in_patio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2139,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,"Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores. ",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Pátio
+todas_in_patio_mun,,,,,,,Pátio
+todas_in_patio_est,,,,,,,Pátio
+todas_in_patio_fed,,,,,,,Pátio
+todas_in_refeitorio_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2140,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Refeitório
+todas_in_refeitorio_mun,,,,,,,Refeitório
+todas_in_refeitorio_est,,,,,,,Refeitório
+todas_in_refeitorio_fed,,,,,,,Refeitório
+todas_in_psicologo_assist_social_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2141,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar,2022,Presença de psicólogo ou de assistente social entre os profissionais da escola.,Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Psicólogo ou assistente social
+todas_in_psicologo_assist_social_mun,,,,,,,Psicólogo ou assistente social
+todas_in_psicologo_assist_social_est,,,,,,,Psicólogo ou assistente social
+todas_in_psicologo_assist_social_fed,,,,,,,Psicólogo ou assistente social
+todas_in_alimentacao_todas,Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Microdados da educação básica 2142,https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados,2022,"Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.",Educação / 2022 / Todas as etapas / Infraestrutura e serviços,Alimentação
+todas_in_alimentacao_mun,,,,,,,Alimentação
+todas_in_alimentacao_est,,,,,,,Alimentação
+todas_in_alimentacao_fed,,,,,,,Alimentação
+todas_inse_todas,Indicadores educacionais do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira),Nível Socioeconômico,https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/nivel-socioeconomico,2021,"O Indicador de Nível Socioeconômico é construído pela Diretoria de Avaliação da Educação Básica (Daeb), com base nos resultados do questionário do(a) aluno(a) do Saeb (Inse do Saeb). É composto por perguntas relacionadas à moradia e à situação familiar do(a) estudante.",Educação / 2022 / Todas as etapas / Nível Socioeconômico (Inse),Inse
+todas_inse_mun,,,,,,,Inse
+todas_inse_est,,,,,,,Inse
+todas_inse_fed,,,,,,,Inse
