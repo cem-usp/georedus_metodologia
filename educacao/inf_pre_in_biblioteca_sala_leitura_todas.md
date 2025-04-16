@@ -6,7 +6,7 @@ Presença de biblioteca ou de espaço reservado aos alunos para consultas, leitu
 
 - **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
-- **Período(s):** {{m_year}}
+- **Período(s):** 2022
 
 ## Nível Geográfico: **unidade escolar**
 
@@ -15,7 +15,7 @@ Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais An
 
 ### Link para acesso aos dados brutos
 
-[{m_link_title}]({m_link})
+[Microdados da educação básica 2050](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022)
 
 ## Código para Processamento em R
 Scripts disponíveis no [repositório GitHub](https://github.com/cem-usp/georedus)

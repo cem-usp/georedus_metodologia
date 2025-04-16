@@ -6,7 +6,7 @@ Presença de espaço (coberto ou descoberto) cercado por elementos da construç�
 
 - **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
-- **Período(s):** {{m_year}}
+- **Período(s):** 2022
 
 ## Nível Geográfico: **unidade escolar**
 
@@ -15,7 +15,7 @@ Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais An
 
 ### Link para acesso aos dados brutos
 
-[{m_link_title}]({m_link})
+[Microdados da educação básica 2095](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados)
 
 ## Código para Processamento em R
 Scripts disponíveis no [repositório GitHub](https://github.com/cem-usp/georedus)

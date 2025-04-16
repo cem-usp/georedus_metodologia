@@ -6,7 +6,7 @@ O Índice de Desenvolvimento da Educação Básica (Ideb) é calculado a partir 
 
 - **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
-- **Período(s):** {{m_year}}
+- **Período(s):** 2022
 
 ## Nível Geográfico: **unidade escolar**
 
@@ -15,7 +15,7 @@ Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais An
 
 ### Link para acesso aos dados brutos
 
-[{m_link_title}]({m_link})
+[Índice de Desenvolvimento da Educação Básica](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/ideb/resultados)
 
 ## Código para Processamento em R
 Scripts disponíveis no [repositório GitHub](https://github.com/cem-usp/georedus)

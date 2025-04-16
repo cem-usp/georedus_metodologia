@@ -6,7 +6,7 @@ a Taxa de Reprovação indica a porcentagem de alunos que, ao final do ano letiv
 
 - **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
-- **Período(s):** {{m_year}}
+- **Período(s):** 2021
 
 ## Nível Geográfico: **unidade escolar**
 
@@ -15,7 +15,7 @@ Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais An
 
 ### Link para acesso aos dados brutos
 
-[{m_link_title}]({m_link})
+[Taxa de Reprovação](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/nivel-socioeconomico)
 
 ## Código para Processamento em R
 Scripts disponíveis no [repositório GitHub](https://github.com/cem-usp/georedus)
