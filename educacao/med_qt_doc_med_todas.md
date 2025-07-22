@@ -15,7 +15,7 @@ Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais An
 
 ### Link para acesso aos dados brutos
 
-[Microdados da educação básica 2106](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar)
+[Microdados da educação básica 2022](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais/taxas-de-rendimento-escolar)
 
 ## Código para Processamento em R
 Scripts disponíveis no [repositório GitHub](https://github.com/cem-usp/georedus)
