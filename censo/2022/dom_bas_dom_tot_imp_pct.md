@@ -1,4 +1,4 @@
-# Indicador: Domicílios sem abastecimento de água da rede geral
+# Indicador: Domicílios improvisados
 
 ## Interpretação
 
@@ -13,10 +13,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 |Recorte|Descrição  |Fórmula
 |--|--|--|
-|Total - Total de domicílios|Domicílios Particulares Permanentes Ocupados, Utiliza rede geral de distribuição|$\dfrac{V00001 - V00111}{V00001}$|
-|Sexo dos moradores - Mulheres|Domicílios Particulares Permanentes Ocupados, Utiliza rede geral de distribuição, Pessoas de sexo feminino no domicílio|$\dfrac{V00014 - V00532}{V00014}$|
-|Sexo dos moradores - Homens|Domicílios Particulares Permanentes Ocupados, Utiliza rede geral de distribuição, Pessoas de sexo masculino no domicílio|$\dfrac{V00011 - V00524}{V00011}$|
-|Total - Total de moradores|Domicílios Particulares Permanentes Ocupados, Utiliza rede geral de distribuição, Quantidade de moradores|$\dfrac{V00005 - V00508}{V00005}$|
+|Total - Total de domicílios|Domicílios Particulares Improvisados Ocupados|$\dfrac{V00002}{(V00001 + V00002 + V00003)}$|
 
 
 ## Nível Geográficos:

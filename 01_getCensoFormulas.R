@@ -1,5 +1,7 @@
 library(tidyverse)
 
+
+## Link para planilha (https://docs.google.com/spreadsheets/d/1BOV7VqBN2d_m9XSgQOgvYq__flaNlNmetVVMCsCVd6A/edit?gid=1711840438#gid=1711840438)
 meta_censos <- read_csv("metadados/censos.csv") %>% 
   select(indicator_id_abs, indicator_id_rel, variable_id_abs, Var_abs_2022, 
          Var_abs_2010, variable_id_rel, `Var_rel_2022 (denominador)`, 
@@ -15,9 +17,9 @@ formula_censo22_abs <- meta_censos %>%
 
 
 formula_censo22_rel <- meta_censos %>% 
-  select(indicator_id_abs, variable_id_rel, Var_abs_2022, 
+  select(indicator_id_rel, variable_id_rel, Var_abs_2022, 
          `Var_rel_2022 (denominador)`) %>% 
-  rename(c("indicator_id" = "indicator_id_abs",
+  rename(c("indicator_id" = "indicator_id_rel",
            "variable_id" = "variable_id_rel",
            "numerator" = "Var_abs_2022",
            "denominator" = "Var_rel_2022 (denominador)")) %>% 
