@@ -4,7 +4,6 @@
 
 Presença de alimentação escolar, que pressupõe ações de educação alimentar e nutricional, em caráter suplementar.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

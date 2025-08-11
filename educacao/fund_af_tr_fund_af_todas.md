@@ -4,14 +4,13 @@
 
 a Taxa de Reprovação indica a porcentagem de alunos que, ao final do ano letivo, não alcançou os critérios mínimos para a conclusão da etapa de ensino. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2021
 
 ## Nível Geográfico: **unidade escolar**
 
 ## Fonte dos dados
-Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
+Taxas de Rendimento Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
 
 ### Link para acesso aos dados brutos
 

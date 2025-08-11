@@ -4,14 +4,13 @@
 
 O Índice de Desenvolvimento da Educação Básica (Ideb) é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, e das médias de desempenho no Sistema de Avaliação da Educação Básica (Saeb). A disponibilidade do índice é a partir da etapa de Ensino Fundamental I (anos inciais).
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 
 ## Nível Geográfico: **unidade escolar**
 
 ## Fonte dos dados
-Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
+Índice de Desenvolvimento da Educação Básica (Ideb) do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
 
 ### Link para acesso aos dados brutos
 

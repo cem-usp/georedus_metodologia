@@ -4,7 +4,6 @@
 
 Presença de espaço com características e equipamentos próprios, destinado à demonstração ou realização de exames, análises, simulações, testes, ensaios, medições, entre outros, que contribuem para investigações científicas e atividades experimentais nas áreas de física, química e biologia.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

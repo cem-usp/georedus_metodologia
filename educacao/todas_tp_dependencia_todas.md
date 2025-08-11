@@ -4,7 +4,6 @@
 
 Dependência administrativa, ou rede de ensino federal, estadual ou municipal.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

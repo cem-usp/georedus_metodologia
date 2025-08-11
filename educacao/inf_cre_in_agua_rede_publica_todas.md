@@ -4,7 +4,6 @@
 
 Presença serviço público que abrange a captação da água bruta no meio ambiente, o tratamento adequado para torná-la potável e o fornecimento coletivo por meio de rede de distribuição.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

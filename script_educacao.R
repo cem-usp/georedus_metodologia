@@ -11,11 +11,13 @@ for (i in sequence(nrow(meta_educacao))) {
   
   tmp[5] <- sub("\\{\\{m_description\\}\\}", meta_educacao$m_description[i], tmp[5])
   
-  tmp[9] <- sub("\\{\\{m_year\\}\\}", meta_educacao$m_year[i], tmp[9])
+  tmp[8] <- sub("\\{\\{m_year\\}\\}", meta_educacao$m_year[i], tmp[8])
   
-  tmp[18] <- sub("\\{\\{m_link_title\\}\\}", meta_educacao$m_link_title[i], tmp[18])
+  tmp[13] <- sub("\\{\\{m_source\\}\\}", meta_educacao$m_source[i], tmp[13])
   
-  tmp[18] <- sub("\\{\\{m_link\\}\\}", meta_educacao$m_link[i], tmp[18])
+  tmp[17] <- sub("\\{\\{m_link_title\\}\\}", meta_educacao$m_link_title[i], tmp[17])
+  
+  tmp[17] <- sub("\\{\\{m_link\\}\\}", meta_educacao$m_link[i], tmp[17])
   
   Encoding(tmp) <- "UTF-8"
   

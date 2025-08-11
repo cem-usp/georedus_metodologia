@@ -4,7 +4,6 @@
 
 Presença de local utilizado, exclusivamente, para servir as refeições aos alunos, com mesas e assentos próprios.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

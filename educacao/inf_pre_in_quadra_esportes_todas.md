@@ -4,7 +4,6 @@
 
 Presença de área (coberta ou descoberta) com terreno demarcado e preparado para a realização de determinadas práticas esportivas, como jogos de basquete, tênis, vôlei, futsal, entre outras.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

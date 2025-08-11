@@ -4,7 +4,6 @@
 
 Quantidade de docentes na etapa "pré-escola" da educação infantil.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

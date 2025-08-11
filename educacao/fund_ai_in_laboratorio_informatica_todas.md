@@ -4,7 +4,6 @@
 
 Presença de local com computadores para uso dos alunos destinado, prioritariamente, ao desenvolvimento de atividades escolares, contribuindo para democratização e universalização do acesso às tecnologias de informação e comunicação (TIC). Os equipamentos também são utilizados como mediação para diversas disciplinas.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

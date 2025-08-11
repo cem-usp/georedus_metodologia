@@ -4,7 +4,6 @@
 
 Presença de local destinado a crianças da educação infantil, com instalações/equipamentos projetados para a realização de atividades recreativas, jogos e brincadeiras de maneira segura.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

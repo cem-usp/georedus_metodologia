@@ -4,7 +4,6 @@
 
 Presença de espaço equipado com instalações sanitárias para higiene pessoal/necessidades fisiológicas voltado à crianças de educação infantil.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

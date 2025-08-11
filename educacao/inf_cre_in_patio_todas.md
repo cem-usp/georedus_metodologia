@@ -4,7 +4,6 @@
 
 Presença de espaço (coberto ou descoberto) cercado por elementos da construção, com área que permite a realização de atividades recreativas ou outras, ligado ao exterior e a outros recintos por meio de corredores, entradas ou pórticos, não se confundindo com áreas de passagens e corredores.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

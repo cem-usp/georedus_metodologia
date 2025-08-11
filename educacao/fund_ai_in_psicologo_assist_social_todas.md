@@ -4,7 +4,6 @@
 
 Presença de psicólogo ou de assistente social entre os profissionais da escola.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

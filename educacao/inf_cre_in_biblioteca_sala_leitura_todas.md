@@ -4,7 +4,6 @@
 
 Presença de biblioteca ou de espaço reservado aos alunos para consultas, leituras e estudos" que esteja fora de uma eventual biblioteca.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

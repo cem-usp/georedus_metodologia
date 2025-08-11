@@ -4,14 +4,13 @@
 
 {{m_description}}
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** {{m_year}}
 
 ## Nível Geográfico: **unidade escolar**
 
 ## Fonte dos dados
-Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
+{{m_source}}
 
 ### Link para acesso aos dados brutos
 

@@ -4,7 +4,6 @@
 
 Presença de biblioteca na escola, ou seja, "local que dispõe de coleções de livros, materiais videográficos e documentos registrados em qualquer suporte (papel, filme, CD, DVD, entre outras mídias), destinados à consulta, pesquisa, estudo ou leitura. Geralmente, a biblioteca escolar é organizada e administrada por um profissional especializado – o bibliotecário."
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

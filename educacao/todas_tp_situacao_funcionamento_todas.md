@@ -4,7 +4,6 @@
 
 Situação de funcionamento da escola, em que foram selecionadas somente escolas ativas.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

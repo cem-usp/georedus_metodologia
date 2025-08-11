@@ -4,7 +4,6 @@
 
 Presença de redes locais de conexão "wireless" para dispositivos.
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

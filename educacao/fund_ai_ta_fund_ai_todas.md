@@ -4,14 +4,13 @@
 
 A Taxa de Abandono indica a porcentagem de alunos que deixou de frequentar a escola após a data de referência do Censo Escolar. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 
 ## Nível Geográfico: **unidade escolar**
 
 ## Fonte dos dados
-Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
+Taxas de Rendimento Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
 
 ### Link para acesso aos dados brutos
 

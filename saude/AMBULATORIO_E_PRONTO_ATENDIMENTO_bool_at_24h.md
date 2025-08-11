@@ -4,7 +4,6 @@
 
 Indica se a unidade ambulatorial ou de pronto atendimento possui atendimento 24 horas ou não.
 
-- **Recorte:** unidades de saúde públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 
@@ -15,7 +14,7 @@ Cadastro Nacional de Estabelecimentos da saúde (CNES).
 
 ### Link para acesso aos dados brutos
 
-[CNES - TabWin](https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-escolar/resultados/2022)
+CNES - TabWin
 
 ## Código para Processamento em R
 Scripts disponíveis no [repositório GitHub](https://github.com/cem-usp/georedus)

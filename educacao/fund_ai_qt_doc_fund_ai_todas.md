@@ -4,7 +4,6 @@
 
 Quantidade de docentes na etapa de Ensino Fundamental I (anos iniciais).
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 

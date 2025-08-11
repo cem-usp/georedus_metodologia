@@ -4,14 +4,13 @@
 
 A Taxa de Distorção Idade-série é o indicador educacional que acompanha o percentual de alunos, em cada série, que têm idade acima da esperada para o ano em que estão matriculados. Disponível a partir da etapa de Ensino Fundamental I (anos inciais).
 
-- **Recorte:** unidades escolares públicas das maiores regiões metropolitanas selecionadas ou capitais
 - **Valor:** absoluto
 - **Período(s):** 2022
 
 ## Nível Geográfico: **unidade escolar**
 
 ## Fonte dos dados
-Censo Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
+Taxas de Rendimento Escolar do Inep (Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira)
 
 ### Link para acesso aos dados brutos
 
