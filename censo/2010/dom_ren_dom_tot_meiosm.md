@@ -14,6 +14,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |--|--|--|
 |Total - Total de responsáveis|Domicílios particulares com rendimento nominal mensal domiciliar per capita de até 1/2 salário mínimo|$\dfrac{NA}{NA}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

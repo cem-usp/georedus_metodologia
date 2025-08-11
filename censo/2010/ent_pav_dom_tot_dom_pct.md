@@ -31,6 +31,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Cor dos moradores - Pessoas indígenas|Moradores em domicílios particulares permanentes de cor ou raça indígena – Não existe pavimentação|$\dfrac{ent_V992}{dom02_V002}$|
 |Cor dos moradores - Pessoas negras|Moradores em domicílios particulares permanentes de cor ou raça preta ou parda – Não existe pavimentação|$\dfrac{ent_V986 + ent_V990}{dom02_V002}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

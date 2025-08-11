@@ -8,7 +8,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 ### Link para acesso aos dados brutos
 **[https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html)**
-**Período**: 2022
+
 **Valores Relativos**
 
 |Recorte|Descrição  |Fórmula
@@ -18,6 +18,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Sexo dos moradores - Homens|Domicílios Particulares Permanentes Ocupados, Tipo de espécie é casa, Pessoas de sexo masculino no domicílio E Tipo de espécie é casa de vila ou em condomínio, Pessoas de sexo masculino no domicílio|$\dfrac{V00502 + V00503}{V00011}$|
 |Total - Total de moradores|Domicílios Particulares Permanentes Ocupados, Tipo de espécie é casa, Quantidade de moradores E Domicílios Particulares Permanentes Ocupados, Tipo de espécie é casa de vila ou em condomínio, Quantidade de moradores|$\dfrac{V00084 + V00085}{V00005}$|
 
+**Período**: 2022
 
 ## Nível Geográficos:
 

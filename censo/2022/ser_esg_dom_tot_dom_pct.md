@@ -17,6 +17,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Total - Total de moradores|Domicílios Particulares Permanentes Ocupados, Destinação do esgoto do banheiro ou sanitário ou buraco para dejeções é rede geral ou pluvial, Quantidade de moradores|$\dfrac{V00001 - V00580}{V00005}$|
 |Sexo dos moradores - Homens|Domicílios Particulares Permanentes Ocupados, Destinação do esgoto inexistente, pois não tinham banheiro nem sanitário, Pessoas de sexo masculino no domicílio OU Domicílios Particulares Permanentes Ocupados, Destinação do esgoto do banheiro ou sanitário ou buraco para dejeções é rede geral ou pluvial, Pessoas de sexo masculino no domicílio|$\dfrac{V00001 - V00596}{V00011}$|
 
+
 **Período**: 2022
 
 ## Nível Geográficos:

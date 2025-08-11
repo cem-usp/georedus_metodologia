@@ -35,6 +35,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Cor dos moradores - Pessoas amarelas|Moradores em domicílios particulares permanentes de cor ou raça preta ou parda– Não existe meio-fio/guia|$\dfrac{ent_V1006 + ent_V1010}{dom02_V002}$|
 |Cor dos moradores - Pessoas amarelas|Moradores em domicílios particulares permanentes de cor ou raça preta ou parda– Não existe meio-fio/guia|$\dfrac{ent_V1008}{dom02_V002}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

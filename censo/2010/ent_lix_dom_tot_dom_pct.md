@@ -31,6 +31,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Cor dos moradores - Pessoas indígenas|Moradores em domicílios particulares permanentes de cor ou raça indígena – Existe lixo acumulado nos logradouros|$\dfrac{ent_V1061}{dom02_V002}$|
 |Cor dos moradores - Pessoas negras|Moradores em domicílios particulares permanentes de cor ou raça preta ou parda – Existe lixo acumulado nos logradouros|$\dfrac{ent_V1055 + ent_V1059}{dom02_V002}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

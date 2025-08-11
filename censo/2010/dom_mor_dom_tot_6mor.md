@@ -16,6 +16,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Sexo dos responsáveis - Homens|Domicílios particulares permanentes com 6 ou mais moradores com homem responsável|$\dfrac{NA}{NA}$|
 |Sexo dos responsáveis - Mulheres|Domicílios particulares permanentes com 6 ou mais moradores com mulher responsável|$\dfrac{NA}{NA}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

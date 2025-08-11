@@ -17,6 +17,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Total - Total de moradores|Moradores em domicílios particulares permanentes do tipo casa E tipo casa de vila ou em condomínio|$\dfrac{NA}{NA}$|
 |Sexo dos moradores - Mulheres|Mulheres moradoras em domicílios particulares permanentes do tipo casa E tipo casa de vila ou em condomínio|$\dfrac{NA}{NA}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

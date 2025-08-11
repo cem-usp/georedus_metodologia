@@ -29,6 +29,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Total - Total de moradores|Moradores em domicílios particulares permanentes sem lixo coletado|$\dfrac{NA}{NA}$|
 |Sexo dos moradores - Mulheres|Mulheres moradoras em domicílios particulares permanentes sem lixo coletado|$\dfrac{NA}{NA}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

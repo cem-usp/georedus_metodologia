@@ -14,6 +14,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |--|--|--|
 |Total - Total de residentes|Pessoas entre 6 e 10 anos de idade|$\dfrac{NA}{NA}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

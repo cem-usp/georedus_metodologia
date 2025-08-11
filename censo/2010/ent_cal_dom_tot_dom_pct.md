@@ -69,6 +69,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Cor dos moradores - Pessoas brancas|Moradores em domicílios particulares permanentes de cor ou raça indígena – Não existe identificação do logradouro|$\dfrac{NA}{NA}$|
 |Cor dos moradores - Pessoas amarelas|Moradores em domicílios particulares permanentes de cor ou raça preta ou parda – Não existe identificação do logradouro|$\dfrac{NA}{NA}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

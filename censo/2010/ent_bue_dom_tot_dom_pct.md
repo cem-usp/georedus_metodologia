@@ -31,6 +31,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Cor dos moradores - Pessoas indígenas|Moradores em domicílios particulares permanentes de cor ou raça indígena – Não existe bueiro/boca-de-lobo|$\dfrac{ent_V1022}{dom02_V002}$|
 |Cor dos moradores - Pessoas negras|Moradores em domicílios particulares permanentes de cor ou raça preta ou parda – Não existe bueiro/boca-de-lobo|$\dfrac{ent_V1016 + ent_V1020}{dom02_V002}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

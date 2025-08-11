@@ -28,6 +28,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Cor e sexo dos residentes - Homens negros|Pessoas alfabetizadas de 10 a 14 anos de idade, do sexo masculino e cor ou raça – preta ou parda|$\dfrac{pes04_V007 + pes04_V009}{pes03_V098 + pes03_V100}$|
 |Total - Total de residentes|Pessoas alfabetizadas entre 10 e 14 anos de idade|$\dfrac{pes01_V007 + pes01_V008 + pes01_V009 + pes01_V010 + pes01_V011}{pes13_V044 + pes13_V045 + pes13_V046 + pes13_V047 + pes13_V048}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

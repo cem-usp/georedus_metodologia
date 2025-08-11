@@ -8,7 +8,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 ### Link para acesso aos dados brutos
 **[https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html)**
-**Período**: 2010
+
 **Valores Relativos**
 
 |Recorte|Descrição  |Fórmula
@@ -18,6 +18,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Total - Total de moradores|Moradores em domicílios particulares permanentes|$\dfrac{dom02_V002}{dom02_V001}$|
 |Sexo dos moradores - Mulheres|Mulheres moradoras em domicílios particulares permanentes|$\dfrac{dom02_V090}{dom02_V002}$|
 
+**Período**: 2010
 
 ## Nível Geográficos:
 

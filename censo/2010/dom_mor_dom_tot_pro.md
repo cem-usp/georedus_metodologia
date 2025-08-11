@@ -17,6 +17,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Total - Total de moradores|Moradores em domicílios particulares permanentes próprios (quitados ou em aquisição)|$\dfrac{NA}{NA}$|
 |Sexo dos moradores - Mulheres|Mulheres moradores em domicílios particulares permanentes próprios|$\dfrac{NA}{NA}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

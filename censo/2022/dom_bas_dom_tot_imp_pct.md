@@ -8,13 +8,14 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 ### Link para acesso aos dados brutos
 **[https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html)**
-**Período**: 2022
+
 **Valores Relativos**
 
 |Recorte|Descrição  |Fórmula
 |--|--|--|
 |Total - Total de domicílios|Domicílios Particulares Improvisados Ocupados|$\dfrac{V00002}{(V00001 + V00002 + V00003)}$|
 
+**Período**: 2022
 
 ## Nível Geográficos:
 

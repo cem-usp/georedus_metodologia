@@ -8,13 +8,14 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 
 ### Link para acesso aos dados brutos
 **[https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html)**
-**Período**: 2010
+
 **Valores Relativos**
 
 |Recorte|Descrição  |Fórmula
 |--|--|--|
 |Total - Total de domicílios|Total de domicílios particulares improvisados|$\dfrac{dom_r_V001}{dom01_V001}$|
 
+**Período**: 2010
 
 ## Nível Geográficos:
 

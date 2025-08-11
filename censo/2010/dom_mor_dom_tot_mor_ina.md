@@ -15,6 +15,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Total - Total de domicílios|Domicílios particulares permanentes com moradia semi-adequada ou inadequada|$\dfrac{NA}{NA}$|
 |Total - Total de moradores|Moradores em domicílios particulares permanentes com moradia semi- adequada ou inadequada|$\dfrac{NA}{NA}$|
 
+
 **Período**: 2010
 
 ## Nível Geográficos:

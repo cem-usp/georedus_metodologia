@@ -17,6 +17,7 @@ Instituto Brasileiro de Geografia e Estatística (IBGE)
 |Sexo dos moradores - Homens|Domicílios Particulares Permanentes Ocupados, Lixo coletado no domicílio por serviço de limpeza, Pessoas de sexo masculino no domicílio E Domicílios Particulares Permanentes Ocupados, Lixo depositado em caçamba de serviço de limpeza, Pessoas de sexo masculino no domicílio|$\dfrac{V00001 - (V00624 +V00625)}{V00011}$|
 |Total - Total de moradores|Domicílios Particulares Permanentes Ocupados, Lixo coletado no domicílio por serviço de limpeza, Quantidade de moradores E Domicílios Particulares Permanentes Ocupados, Lixo depositado em caçamba de serviço de limpeza, Quantidade de moradores|$\dfrac{V00001 - (V00612 + V00613)}{V00005}$|
 
+
 **Período**: 2022
 
 ## Nível Geográficos:
