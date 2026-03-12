@@ -4,7 +4,7 @@
 
 {{m_description}}
 
-- **Valor:** absoluto
+
 - **Período(s):** {{m_year}}
 
 ## Nível Geográfico: **unidade escolar**

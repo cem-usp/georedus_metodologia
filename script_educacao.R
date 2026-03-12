@@ -1,13 +1,13 @@
 library(tidyverse)
 
 modelo_educacao <- readLines("modelos/educacao.txt", encoding = "UTF-8")
-meta_educacao <- read_csv("metadados/educacao.csv") %>% 
+meta_educacao <- read_csv("metadados/educacao_12032026.csv") %>% 
   filter(!is.na(m_description))
 
 for (i in sequence(nrow(meta_educacao))) {
   tmp <- modelo_educacao
   
-  tmp[1] <- sub("\\{\\{m_title\\}\\}", meta_educacao$indicator_label[i], tmp[1])
+  tmp[1] <- sub("\\{\\{indicator_label\\}\\}", meta_educacao$indicator_label[i], tmp[1])
   
   tmp[5] <- sub("\\{\\{m_description\\}\\}", meta_educacao$m_description[i], tmp[5])
   
@@ -21,7 +21,7 @@ for (i in sequence(nrow(meta_educacao))) {
   
   Encoding(tmp) <- "UTF-8"
   
-  writeLines(tmp, paste0("educacao/", meta_educacao$indicator_id[i],".md"),
+  writeLines(tmp, paste0("educacao/",meta_educacao$m_year[i],"/", meta_educacao$indicator_id[i],".md"),
              useBytes = T)
   
 }
