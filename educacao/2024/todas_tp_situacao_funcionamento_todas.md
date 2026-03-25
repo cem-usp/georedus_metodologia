@@ -1,4 +1,4 @@
-# Indicador: {{m_title}}
+# Indicador: Situação de funcionamento
 
 ## Descrição
 

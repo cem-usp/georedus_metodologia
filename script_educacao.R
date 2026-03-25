@@ -7,7 +7,7 @@ meta_educacao <- read_csv("metadados/educacao_12032026.csv") %>%
 for (i in sequence(nrow(meta_educacao))) {
   tmp <- modelo_educacao
   
-  tmp[1] <- sub("\\{\\{indicator_label\\}\\}", meta_educacao$indicator_label[i], tmp[1])
+  tmp[1] <- sub("\\{\\{m_title\\}\\}", meta_educacao$indicator_label[i], tmp[1])
   
   tmp[5] <- sub("\\{\\{m_description\\}\\}", meta_educacao$m_description[i], tmp[5])
   

@@ -1,4 +1,4 @@
-# Indicador: {{m_title}}
+# Indicador: Porcentagem de Matrículas em Tempo Integral
 
 ## Descrição
 

@@ -1,4 +1,4 @@
-# Indicador: {{m_title}}
+# Indicador: Psicólogo ou assistente social
 
 ## Descrição
 

@@ -1,4 +1,4 @@
-# Indicador: {{m_title}}
+# Indicador: Laboratório de informática
 
 ## Descrição
 

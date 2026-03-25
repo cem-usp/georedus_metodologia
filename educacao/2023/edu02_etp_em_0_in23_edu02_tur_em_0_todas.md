@@ -1,4 +1,4 @@
-# Indicador: {{m_title}}
+# Indicador: Quantidade de Turmas - Ensino Médio
 
 ## Descrição
 

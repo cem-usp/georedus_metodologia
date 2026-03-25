@@ -1,4 +1,4 @@
-# Indicador: {{m_title}}
+# Indicador: Porcentagem de Salas Acessíveis
 
 ## Descrição
 

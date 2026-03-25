@@ -1,4 +1,4 @@
-# Indicador: {{m_title}}
+# Indicador: Quantidade de Matrículas em Tempo Integral - Ensino Médio
 
 ## Descrição
 

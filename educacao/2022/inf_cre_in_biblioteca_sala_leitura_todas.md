@@ -1,4 +1,4 @@
-# Indicador: {{m_title}}
+# Indicador: Biblioteca ou sala de leitura
 
 ## Descrição
 
