@@ -19,4 +19,4 @@ Indicador de Nível Socioeconômico das Escolas de Educação Básica (Inse) do 
 ## Código para Processamento em R
 Scripts disponíveis no [repositório GitHub](https://github.com/cem-usp/georedus)
 
-## Última atualização do indicador: 17/02/2025
+## Última atualização do indicador: 13/03/2025
